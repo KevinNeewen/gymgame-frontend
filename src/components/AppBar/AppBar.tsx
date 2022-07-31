@@ -79,9 +79,9 @@ const AppBar = () => {
             zIndex: '1400',
           }}
         >
-          <RouterLink to="#">Play</RouterLink>
+          <RouterLink to="#">Play (Unavailable)</RouterLink>
           <RouterLink to="mint">Mint</RouterLink>
-          <RouterLink to="#">Marketplace</RouterLink>
+          <RouterLink to="#">Marketplace (Unavailable)</RouterLink>
         </Box>
         <Button
           sx={{
